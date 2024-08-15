@@ -1,0 +1,155 @@
+body{
+    background-color: black;
+    margin-top: 100px;
+}
+
+.Header{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+}
+
+.wastedheadertext{
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nickheadertext{
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.window{
+    height: 826px;
+    width: 400px;
+    border-style: solid;
+    border-color: white;
+}
+
+.windowheader{
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.windowheadertext{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+
+}
+
+.yumediv{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: -50px;
+}
+
+.yumegif{
+    width: 350px;
+}
+
+.infodiv{
+    color: white;
+    margin-top: 50px;
+}
+
+.textheader{
+    font-weight: bold;
+    font-size: l00px;
+}
+
+.outline{
+    width: 400px;
+    border-style: solid;
+}
+
+.paragraphdiv{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.socialdiv{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ig{
+    height: 50px;
+}
+
+.x{
+    height: 50px;
+}
+
+.disc{
+    height: 50px;
+}
+
+.tiktok{
+    height: 50px;
+}
+
+.yt{
+    height: 50px;
+}
+
+.flexsocial{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between
+}
+
+.bottomer{
+
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+
+.text{
+    color: rgb(201, 201, 201);
+}
+
+.bottomertext{
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.emailbottom{
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
